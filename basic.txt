@@ -1,0 +1,15 @@
+#||==================||
+#||basic git command ||
+#||==================||
+
+
+git config --global user.name FahimArman
+git config --global user.name fahim.3761@gmail.com
+
+git clone https://github.com/FahimArman/learn_git.git
+
+git add *
+
+git commit -m "basic.txt added"
+
+git push
